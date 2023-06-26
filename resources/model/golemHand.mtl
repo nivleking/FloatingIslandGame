@@ -1,0 +1,13 @@
+# Blender 3.5.1 MTL File: 'None'
+# www.blender.org
+
+newmtl STONE.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.259091 0.259091 0.259091
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/Griemoriez/Downloads/diffuso.tif
+map_Ns C:/Users/Griemoriez/Downloads/rough.tif
+map_Bump C:/Users/Griemoriez/Downloads/normal.png
